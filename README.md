@@ -1,3 +1,3 @@
 # democode
 my first project
---by pachi
+--by pachi s
